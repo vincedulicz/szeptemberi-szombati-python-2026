@@ -1,0 +1,9 @@
+total orders items: 63Pékáru;4
+Gyümölcs;5
+Tej;6
+Pékáru;7
+Tej;4
+Zöldség;5
+Gyümölcs;4
+Tej;5
+Tej
