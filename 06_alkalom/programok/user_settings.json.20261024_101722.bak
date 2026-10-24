@@ -1,0 +1,18 @@
+{
+    "settings": "verysetting",
+    "flag_": true,
+    "session_id": "8ghg498dfdf93483g984g39849g34",
+    "timestamp": "mai dátum import date.... 2026.10.24",
+    "user": {
+        "settings_": {
+            "valami__": {
+                "na ezeket akkor eléred": [
+                    "domain.name",
+                    "google.com",
+                    "127.0.0.1"
+                ]
+            }
+        }
+    },
+    "other_settings_json_very_fontos_key": 369
+}
